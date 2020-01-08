@@ -2,9 +2,6 @@ const { Router } = require("express");
 const User = require("./model");
 // just importing all stuff to make sure the database is configured correctly.
 //might actually be usefull later
-const Comment = require("../comment/model");
-const Event = require("../event/model");
-const Ticket = require("../ticket/model");
 
 const router = new Router();
 

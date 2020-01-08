@@ -19,8 +19,7 @@ const User = db.define("user", {
 
     unique: { args: true, msg: "Email address already in use!" }
   },
-  password: { type: Sequelize.STRING, allowNull: false },
-  profile_pic: { type: Sequelize.STRING }
+  password: { type: Sequelize.STRING, allowNull: false }
 });
 
 module.exports = User;
