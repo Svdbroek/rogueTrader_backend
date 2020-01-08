@@ -5,7 +5,7 @@ const databaseUrl =
 
 const db = new Sequelize(databaseUrl);
 
-db.sync({ force: true }) // make sure db isn't overwritten
+db.sync({ force: false }) // make sure db isn't overwritten
   .then(console.log("Database connected"))
   .catch(console.error);
 
