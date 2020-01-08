@@ -24,4 +24,8 @@ router.get("/origin/:tier", (req, res, nxt) => {
   }
 });
 
+router.get("/origin/option/:pick", (req, res, nxt) => {
+  const pick = req.params.pick;
+  res.send(originPath[pick]);
+});
 module.exports = router;

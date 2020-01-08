@@ -1,4 +1,4 @@
-//Origin Path Choises
+//Origin Path choices
 //probably add descriptions to all of these
 const OriginPath = {
   Homeworld: [
@@ -51,7 +51,7 @@ const OriginPath = {
     "Rogue Trader"
   ],
 
-  // homeworld extra choises
+  // homeworld extra choices
   deathWorld: ["Jaded", "Resistance: Poison"],
 
   forgeWold: ["WS", "BS", "S", "T", "Ag", "Int", "Per", "WP", "fel"],
@@ -68,7 +68,7 @@ const OriginPath = {
     "Underworld"
   ],
 
-  //Birthright extra choises
+  //Birthright extra choices
 
   scavenger: {
     Description: "",
@@ -84,7 +84,7 @@ const OriginPath = {
     bonus: ["Intelligence", "Perception"],
     damage: ["Corruption", "Insanity"]
   },
-  Stubjack: {
+  stubjack: {
     Description: "",
 
     bonus: ["Weapon Skill", "Ballistic Skill"]
@@ -109,18 +109,18 @@ const OriginPath = {
     bonus: ["Agility", "Fellowship"]
   },
 
-  // Lure of the Void choises
+  // Lure of the Void choices
 
   tainted: {
-    //mutant needs subchoises how?
+    //mutant needs subchoices how?
     Description: "",
-    Choises: ["Mutant", "Insane", "Deviant Philosophy"]
+    choices: ["Mutant", "Insane", "Deviant Philosophy"]
   },
 
   criminal: {
     //judged needs subjoiches
     Description: "",
-    Choises: [
+    choices: [
       "Wanted Fugitive",
       "Hunted by a Crime Baron",
       "Judged and Found Wanting"
@@ -128,25 +128,25 @@ const OriginPath = {
   },
 
   renegade: {
-    //free-thinker needs subchoises
+    //free-thinker needs subchoices
     Description: "",
-    Choises: ["Recidivist", "Free-thinker", "Dark Visionaru"]
+    choices: ["Recidivist", "Free-thinker", "Dark Visionaru"]
   },
 
   dutyBound: {
-    // humanity needs subchoises
+    // humanity needs subchoices
     Description: "",
-    Choises: ["Throne", "Humanity", "Dynasty"]
+    choices: ["Throne", "Humanity", "Dynasty"]
   },
 
   zealot: {
     Description: "",
-    Choises: ["Blessed Scars", "Unnerving Clarity", "Favoured of the Faithful"]
+    choices: ["Blessed Scars", "Unnerving Clarity", "Favoured of the Faithful"]
   },
 
   chosenByDestiny: {
     Description: "",
-    Choises: ["Seeker of Truth", "Xenophile", "Fated for Greatness"]
+    choices: ["Seeker of Truth", "Xenophile", "Fated for Greatness"]
   },
 
   // Trails and Travails
