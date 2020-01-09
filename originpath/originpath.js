@@ -72,41 +72,47 @@ const OriginPath = {
 
   scavenger: {
     Description: "",
-
-    talent: ["Resistance(fear)", "Unremarkable"],
-    bonus: ["Willpower", "Agility"],
-    damage: ["Corruption", "Insanity"]
+    choice: {
+      talent: ["Resistance(fear)", "Unremarkable"],
+      bonus: ["Willpower", "Agility"],
+      damage: ["Corruption", "Insanity"]
+    }
   },
 
   scapegrace: {
     Description: "",
-
-    bonus: ["Intelligence", "Perception"],
-    damage: ["Corruption", "Insanity"]
+    choice: {
+      bonus: ["Intelligence", "Perception"],
+      damage: ["Corruption", "Insanity"]
+    }
   },
   stubjack: {
     Description: "",
-
-    bonus: ["Weapon Skill", "Ballistic Skill"]
+    choice: {
+      bonus: ["Weapon Skill", "Ballistic Skill"]
+    }
   },
 
   childOfTheCreed: {
     Description: "",
-
-    bonus: ["Willpower", "Fellowship"]
+    choice: {
+      bonus: ["Willpower", "Fellowship"]
+    }
   },
 
   savant: {
     Description: "",
-
-    talent: ["Logic (int) trained basic skill", "Peer(acedamic) talent"],
-    bonus: ["Intelligence", "Fellowship"]
+    choice: {
+      talent: ["Logic (int) trained basic skill", "Peer(acedamic) talent"],
+      bonus: ["Intelligence", "Fellowship"]
+    }
   },
 
   vaunted: {
     Description: "",
-
-    bonus: ["Agility", "Fellowship"]
+    choice: {
+      bonus: ["Agility", "Fellowship"]
+    }
   },
 
   // Lure of the Void choices
@@ -153,59 +159,67 @@ const OriginPath = {
 
   handOfWar: {
     Description: "",
-
-    weaponTalent: ["list of talents here"], //probably create a weapon talent list somewhere
-    Hatred: [
-      "Orks",
-      "Eldar",
-      "mutants",
-      "Chaos worshipers",
-      "Imperial Guard",
-      "Imperial Navy",
-      "void pirates"
-    ]
+    choice: {
+      weaponTalent: ["list of talents here"], //probably create a weapon talent list somewhere
+      Hatred: [
+        "Orks",
+        "Eldar",
+        "mutants",
+        "Chaos worshipers",
+        "Imperial Guard",
+        "Imperial Navy",
+        "void pirates"
+      ]
+    }
   },
 
   pressGanged: {
     Description: "",
-
-    skill: ["list of no prereq skills here"], //from a different js file?
-    commonLore: ["also a big list"]
+    choice: {
+      skill: ["list of no prereq skills here"], //from a different js file?
+      commonLore: ["also a big list"]
+    }
   },
 
   calamity: {
     Description: "",
-
-    talent: ["Hardy", "Nerves of Steel"]
+    choice: {
+      talent: ["Hardy", "Nerves of Steel"]
+    }
   },
 
   shipLorn: {
     Description: "",
-
-    talent: ["Survival Skill", "Dark Soul Talent"]
+    choice: {
+      talent: ["Survival Skill", "Dark Soul Talent"]
+    }
   },
 
   darkVoyage: {
     Description: "",
-
-    notMeantToKnow: ["resistance(Fear) talent", "list of forbidden lore"]
+    choice: {
+      notMeantToKnow: ["resistance(Fear) talent", "list of forbidden lore"]
+    }
   },
 
   highVendetta: {
     Description: "",
-
-    talent: ["Die Hard", "Paranoia"]
+    choice: {
+      talent: ["Die Hard", "Paranoia"]
+    }
   },
 
   //Motivation
 
-  Vengeance: ["list of hatred talents"],
+  Vengeance: {
+    choice: ["list of hatred talents"]
+  },
 
-  renown: ["Air of Authority", "Peer (choise) talent"],
+  renown: { choice: ["Air of Authority", "Peer (choice) talent"] },
 
-  pride: ["toughness", "list of heirlooms"],
+  pride: { choice: ["toughness", "list of heirlooms"] },
 
-  prestige: ["Talnted (choise) talent", "Peer (choise) talent"]
+  prestige: { choice: ["Talnted (choice) talent", "Peer (choice) talent"] }
 };
 
 module.exports = OriginPath;
