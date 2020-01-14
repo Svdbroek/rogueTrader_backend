@@ -11,7 +11,7 @@ router.get("/origin/:tier", (req, res, nxt) => {
   const tier = req.params.tier;
   const choice = parseInt(req.query.choice);
   console.log(choice);
-  if (numberBetween(choice, -1, 6)) {
+  if (numberBetween(choice, -1, 8)) {
     res.send({
       [tier]: [
         originPath[tier][choice - 1],
@@ -20,7 +20,7 @@ router.get("/origin/:tier", (req, res, nxt) => {
       ]
     });
   } else {
-    res.send(originPath[tier]);
+    res.send({ [tier]: [...originPath[tier]] });
   }
 });
 

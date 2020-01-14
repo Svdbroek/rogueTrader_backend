@@ -2,15 +2,15 @@ const Sequelize = require("sequelize");
 const db = require("../db");
 
 const stats = db.define("characterstat", {
-  WS: Sequelize.SMALLINT,
-  BS: Sequelize.SMALLINT,
-  S: Sequelize.SMALLINT,
-  T: Sequelize.SMALLINT,
-  Ag: Sequelize.SMALLINT,
-  int: Sequelize.SMALLINT,
-  per: Sequelize.SMALLINT,
-  WP: Sequelize.SMALLINT,
-  fel: Sequelize.SMALLINT
+  "Weapon Skill": Sequelize.SMALLINT,
+  "Ballistic Skill": Sequelize.SMALLINT,
+  Strength: Sequelize.SMALLINT,
+  Toughness: Sequelize.SMALLINT,
+  Agility: Sequelize.SMALLINT,
+  Intelligence: Sequelize.SMALLINT,
+  Perception: Sequelize.SMALLINT,
+  Willpower: Sequelize.SMALLINT,
+  Fellowship: Sequelize.SMALLINT
 });
 
 module.exports = stats;
