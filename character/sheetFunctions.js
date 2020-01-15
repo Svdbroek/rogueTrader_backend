@@ -43,7 +43,7 @@ async function addBonus(bonusString, characterId) {
   });
 
   console.log("------------");
-  console.log(statsForChar, "prev", bonus, "adds");
+  console.log(statsForChar.dataValues[bonusName], "prev", bonus, "adds");
   console.log("------------");
 
   bonus = bonus + statsForChar.dataValues[bonusName];

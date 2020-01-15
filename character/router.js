@@ -83,15 +83,12 @@ router.post("/character/new", (req, res, nxt) => {
       await OriginPath.create({ characterId: info.id });
       await Stats.create({ characterId: info.id });
       await Roll.create({ characterId: info.id });
-
-      Promise.all(
-        talentTraitEtc.forEach(
-          async val => await talentSkillAdder(val, info.id)
-        )
+      await Promise.all(
+        talentTraitEtc.map(async val => await talentSkillAdder(val, info.id))
       );
 
-      Promise.all(
-        HomeworldBonus[body.Homeworld].forEach(
+      await Promise.all(
+        HomeworldBonus[body.Homeworld].map(
           async val => await talentSkillAdder(val, info.id)
         )
       );
