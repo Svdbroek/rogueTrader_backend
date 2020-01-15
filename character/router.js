@@ -124,6 +124,17 @@ router.put("/character/:id/stats", (req, res, nxt) => {
     .catch(console.error);
 });
 
+router.get("/character/:id/stats", async (req, res, nxt) => {
+  const id = req.params.id;
+
+  const stats = await Stats.findOne({ where: { characterId: id } });
+  const rolls = await Roll.findOne({ where: { characterId: id } });
+
+  const values = { ...stats.dataValues, ...rolls.dataValues };
+
+  res.send(values);
+});
+
 router.put("/character/:id/damage", (req, res, nxt) => {
   const damage = { ...req.body };
 
