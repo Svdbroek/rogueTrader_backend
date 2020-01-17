@@ -52,11 +52,19 @@ router.post("/character/new", (req, res, nxt) => {
 
   const character = {
     name: body.name,
-    career: body.career,
+    career: body.Career,
     XP: 500,
     XPspent: 4500
   };
 
+  const careerPath = {
+    Homeworld: body.Homeworld,
+    Birthright: body.Birthright,
+    Lure: body.Lure,
+    "Lure-sub": body["Lure-sub"],
+    Trails: body.Trails,
+    Motivation: body.Motivation
+  };
   const talentKeys = Object.keys(body);
 
   const talentTraitEtc = talentKeys.reduce((acc, val, idx, arr) => {
@@ -80,7 +88,7 @@ router.post("/character/new", (req, res, nxt) => {
   Character.create(character)
     .then(async info => {
       await Damage.create({ characterId: info.id });
-      await OriginPath.create({ characterId: info.id });
+      await OriginPath.create({ ...careerPath, characterId: info.id });
       await Stats.create({ characterId: info.id });
       await Roll.create({ characterId: info.id });
       await Promise.all(
@@ -93,7 +101,6 @@ router.post("/character/new", (req, res, nxt) => {
         )
       );
 
-      // slapp the bonussses models through the talentSkillAdder11111
       res.send(info);
     })
     .catch(console.error);
@@ -109,7 +116,12 @@ router.put("/character", (req, res, nxt) => {
 
 router.get("/character/:id", (req, res, nxt) => {
   Character.findByPk(req.params.id, {
-    include: [{ model: damage }, { model: originPath }, { model: stats }]
+    include: [
+      { model: Damage },
+      { model: OriginPath },
+      { model: Stats },
+      { model: Talent }
+    ]
   })
     .then(info => res.send(info))
     .catch(console.error);
@@ -119,8 +131,27 @@ router.get("/character/:id", (req, res, nxt) => {
 
 router.put("/character/:id/stats", (req, res, nxt) => {
   const stats = { ...req.body };
-  Stats.update(stats, { where: { id: character.id } })
-    .then(info => res.send(info))
+
+  const damages = {
+    maxWounds: stats.wound,
+    currentWounds: stats.wound,
+    insanity: stats.ins,
+    corruption: stats.cor,
+    maxFate: stats.fate,
+    currentFate: stats.fate
+  };
+  Stats.update(stats, { where: { id: req.params.id } })
+    .then(Damage.update(damages, { where: { id: req.params.id } }))
+    .then(
+      Character.findByPk(req.params.id, {
+        include: [
+          { model: Damage },
+          { model: OriginPath },
+          { model: Stats },
+          { model: Talent }
+        ]
+      }).then(info => res.send(info))
+    )
     .catch(console.error);
 });
 
