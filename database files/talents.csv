@@ -1,0 +1,551 @@
+Talents,Description,Prerequisite
+A Machine of Flesh,Gain benefits of chosen mutation trait,
+Abhor the Witch,Spend Fate point for duration of mission to gain Resistance (Psychic powers),"Adeptus Astartes, Psy Rating 0"
+Acolyte Network,"Reduce influence by 5, cell can attempt missions or act as resource",
+Aetheric Resonator,Activate with -10 Toughness test. Treat as hexogramatically warded for TB rounds.,Tech-Priest (Potentia Coil/Electro Conductor)
+Air of Authority,Affect 1d10+Fel targets with Command,Fel 30
+Ally of the Departmento Munitorum,"Re-roll failed influence tests for requisition with Imperial Guard, Navy or PDF.",
+Ambidextrous,Use either hand equally well,Ag 30
+Ancestral Blessing,Once per day make WP test to gain +2 melee damage for WP bonus rounds,Shamanic powers
+Anima Aura,Half action to gain Stuff of nightmares trait for 1d10+TB rounds. Take 1d5 Insanity + 1 Fatigue,Tech-Priest (Potentia Coil)
+Armour of contempt,Resistant to corruption,WP 40
+Armour-Monger,Spend an hour to bless your armour giving it +2 AP,Techmarine
+Arms Master,Use untrained ranged weapons at -10 instead of -20,BS 30
+Ascended Psychic Power,Access to Rank 1 Ascended power,Psy Rating
+Assassin Strike,Possible move after attack,"Ag 40, Acrobatics"
+Astartes Weapon Specialisation (specific),Penalty for chosen weapon use can never be worse than -30,Astartes Weapon Training
+Astartes Weapon Training,Proficient with all non exotic weapons,Adeptus Astartes
+Autosanguine,Heals 2/day and always lightly wounded,
+Basic Training (Bolt),Trained to use Basic Bolt weapons,
+Basic Training (Flame),Trained to use Basic Flame weapons,
+Basic Training (Las),Trained to use Basic Las weapons,
+Basic Training (Launcher),Trained to use Basic Launcher weapons,
+Basic Training (Melta),Trained to use Basic Melta weapons,
+Basic Training (Plasma),Trained to use Basic Plasma weapons,
+Basic Training (Primitive),Trained to use Basic Primitive weapons,
+Basic Training (SP),Trained to use Basic SP weapons,
+Basic Training (Universal),"Bolt, Las, Launcher, Melta,Plasma,SP",
+Basic Weapon Expertise,Proficient with all (non exotic) basic weapons,
+Bastion of Iron Will,Doubles defensive Psy bonus,"Psy rating, strong minded, WP 40"
+Battle Rage,Parry when Frenzied,Frenzy
+Beast Hunter,Gain +3 damage to critical hits to creatures hulking or larger.,"WS 35, BS 35"
+Berserk Charge,+20 WS on charge,
+Berserker,"Battle Rage, Berserk Charge, Frenzy, Furious Assault","WS 50, S 40"
+Best of the best,Win opposed pilot rolls if tied number of successes. Same for interaction tests with Navy,"Pilot (Flyers/Space craft) +20, Pilot (Personal) +10"
+Binary Chatter,"+10 to comms with servitors, +1 Crew Morale",
+Blade Dancer,"Assassin's Strike, Blade Master, Combat Master, Counter Attack, Wall of Steel","Ag 40, WS 40, Acrobatics"
+Blademaster,Re-roll missed bladed attack once per round,"WS 30, Melee Weapon Training(any)"
+Blessed Ignorance,Cannot look at foes that create fear effects or give insanity or corruption,"Pure Faith, Holy Radiance"
+Blessed Radiance,Extends faith powers to allies,"Purge the Unclean, Divine Ministration, The Emperor protects or Wrath of the Righteous"
+Blind Fighting,Halve penalties when vision obscured,Per 30
+Blood of the Stalker,"Make WP test to gain bonus success to concealment, shadowing and silent move tests",Shamanic powers
+Bloodtracker,Receive benefits from capturing bounties,
+Bolter Drill,Increase rate of fire by 1 for semi and full-auto fire of personal bolt weapons,Astartes Weapon Training
+Brutal Charge,Gain +3 damage on a charge,
+Bulging Biceps,Remove some bracing requirements,S 45
+Burden of Guilt,Those with lower willpower must make WP check when lying to avoid coughing,Pure Faith
+Call of Iron,"Ferric Lure, Ferric Summons",Mechanicus Implants
+Call to Vengeance,Spend fate point when squad member is killed to restore Squad Cohesion,"Adeptus Astartes, Fel 40"
+Catfall,Reduce falling damage,Ag 30
+Chain Knives,Hidden Weapon Implant,Mechanicus Implants
+Chain Weapon Expert,Reduced damage when hitting self with chain weapons,Melee Training (Chain)
+Chem Geld,"Immune to seduction, resistance to charm",
+Chosen Representitive,May speak for his organisation and +10 Fel with Imperial Authorities,Fel 30
+Cleanse and Purify,-20 to Ag when avoiding Flame weapons,Flame Weapon Training
+Combat Formation,Use Int bonus for initiative,Int 40
+Combat Master,Opponents get no bonus when outnumbering,WS 30
+Combat Sense,Use Per bonus for initiative,Per 40
+Commanding Presence,May use Str for Fel tests and never suffers worse than -20 penalty,
+Committed Xanthite,Re-roll failed influence tests with Xanthites. Attempt requisition of forbidden items,
+Concealed Cavity,Secret body compartment,
+Conciliator,Re-roll failed influence tests for requisition with various groups (Pg 115),
+Conditioned Intellect,"Foresight, Total Recall",Int 40
+Corpus Conversion,"Take 2 damage to add WP bonus to your Power roll (free action, may do multiple times)",Psy rating 2
+Counter Attack,Free attack with successful parry,WS 40
+Crack Shot,+2 critical damage with ranged weapons,BS 40
+Crimelord,"Re-roll failed influence tests with underworld, Re-roll successful test with Arbites/Enforcers",
+Crippling Strike,+4 critical damage with Melee weapons,WS 50
+Crushing Blow,+2 damage with Melee weapons,S 40
+Da Nekst Best Fing,Treat each two-non Orks (not machine trait) towards Mob Rule bonus,"Ork, Mob Rule"
+Daemon Trap,Daemons must make -20 WP test to avoid trap. Takes 5 mins to create and bless.,"Pure Faith, Repel Daemon"
+Dark Soul,Half penalty on malignancy tests,
+Deadeye shot,Called shots at -10,BS 30
+Death Blow,"Crippling Strike, Crushing Blow, Precise Blow, Sure Strike","WS 50, S 40"
+Death from Above,Charge with jump pack deal +1d10 damage per 2 successes (max 2d10),"Adeptus Astartes, Pilot (Personal)"
+Deathwatch Training,Auto confirm Righteous Fury vs. Xenos,"Adeptus Astartes, Deathwatch"
+Decadence,Resistance to drugs and alcohol,T 30
+Ded 'Ard,Blood loss every 5 rounds and re-roll failed toughness test to avoid dying,"Ork, 'Ard, Toughness 50"
+Ded Sneaky,Gain Fear (1) when attacking from cover,"Ork, Concealment +10, Silent Move +10"
+Deflect Shot,Parry Primitive or thrown weapons,Ag 50
+Denouncer,Modifications to influence with Inquisition (Pg 116),
+Die Hard,Re-roll death chance  from blood loss,WP 40
+Disarm,Force opponents to drop weapon,Ag 30
+Discipline Focus,Add +2 to power rolls for chosen discipline,Psy rating 3
+Disturbing Voice,"+10 to interrogate/Intimidate, -10 Fel",
+Divine Endurance,Ignore effects of fatigue,Pure Faith
+Divine Guidance,Ignore 1 ranged penalty. On rigteous fury may ignore armour rather than increase damage,"Pure Faith, Wrath of the Righteous"
+Divine Ministration,Spend fate to remove fatigue or heal,Pure Faith
+Divine Ministration,Medicae tests are 1 step easier and heal an extra WP bonus damage or remove all fatigue,"Pure Faith, Martyr's Gift"
+Divine Symbol,"Immune to possession, +30 vs Daemonic Psychic powers, -10 to hit by Daemons","Pure Faith, Daemon Trap"
+Divine Touch,Touch to make Psyker/Corrupt to test WP or take effects of critical 1d5+2 (E),"Pure Faith, The Passion, Divine Guidance"
+Double Team,Additional +10 for ganging up,
+Drill Instruction,Command Test to allows others to use weapon type you are proficient with,
+Dual Shot,Ballistic shot hits twice,"Ag 40, Two weapon wielder"
+Dual Strike,Melee weapon hits twice,"Ag 40, Two weapon wielder"
+Duty unto Death,Temporarily ignore injuries,WP 45
+Electrical Succour,+10 bonus to T Tests to remove fatigue,Mechanicus Implants
+Electro Graft Use,"+10 Inquiry,Tech-Use,Common Knowledge",
+Electro Illumination,"Energy Cache, Luminen Blast, Luminen Charge, Luminen Shock",Mechanicus Implants
+Enemy (Academics),-10 Fel with chosen group,
+Enemy (Adepta Sororitas),-10 Fel with chosen group,
+Enemy (Adeptus Arbites),-10 Fel with chosen group,
+Enemy (Adeptus Astartes),-10 Fel with chosen group,
+Enemy (Adeptus Mechanicus),-10 Fel with chosen group,
+Enemy (Administratum),-10 Fel with chosen group,
+Enemy (Astropaths),-10 Fel with chosen group,
+Enemy (Chartist Captains),-10 Fel with chosen group,
+Enemy (Cult (Specific)),-10 Fel with chosen cult,
+Enemy (Death Cults),-10 Fel with chosen group,
+Enemy (Ecclesiarchy),-10 Fel with chosen group,
+Enemy (Enforcers),-10 Fel with chosen group,
+Enemy (Government),-10 Fel with chosen group,
+Enemy (Imperial Guard),-10 Fel with chosen group,
+Enemy (Imperial Navy),-10 Fel with chosen group,
+Enemy (Inquisition faction (Specific)),-10 Fel with chosen faction,
+Enemy (Inquisition),-10 Fel with chosen group,
+Enemy (Inquisitor (Specific)),-10 Fel with chosen inquisitor,
+Enemy (Middle Classes),-10 Fel with chosen group,
+Enemy (Military),-10 Fel with chosen group,
+Enemy (Navigators),-10 Fel with chosen group,
+Enemy (Nobility),-10 Fel with chosen group,
+Enemy (Officio Assassinorum),-10 Fel with chosen group,
+Enemy (Planet (Specific)),-10 Fel with chosen group,
+Enemy (Recidivist Organisation (Specific)),-10 Fel with chosen group,
+Enemy (Rogue Trader),-10 Fel with chosen group,
+Enemy (Underworld),-10 Fel with chosen group,
+Enemy (Workers),-10 Fel with chosen group,
+Energy Cache,"Lumen Blast, Charge and shock fatigue free",Mechanicus Implants
+Enhanced Bionic Frame,Gain auto-stabilise trait,Machinator array
+Exemplar of Honour,Once per round spend fate to increase Cohesion by Fel bonus,Adeptus Astartes
+Exemplar of Metal,"Enhanced Bionic Frame, Machinator Array, Mechadendrite Use, The Flesh is Weak",Mechanicus Implants
+Exotic Weapon Training,chosen weapon proficiency,
+Eye of Vengeance,Increase Pen of a single shot by the number of successes. Righteous fury auto confirms,"Astartes Weapon Training, BS 50"
+Faith Talent,Spend Fate point to activate chosen faith talent. Burn for bonus effects,"Pure Faith, Varies"
+Favoured by fate,Gain a fate point (manually added),
+Favoured by the warp,Roll twice and choose best result on psychic phenomena,WP 35
+Fear (1),Opponents must make WP fear check,"Hulking, Unnatural Strength x 2, Intimidate +10"
+Fearless,Immune to fear and pinning,
+Feedback Screech,"30m radius, test WP or lose half action",Mechanicus Implants
+Ferric Lure,WP test to call 1kg/WP metal objects,Mechanicus Implants
+Ferric Summons,WP test to call 2kg/WP metal objects,"Mechanicus Implants, Ferric Lure"
+Flagellant,Flagellate self for 20 mins (1 damage) to gain +10 WP vs mind control and malignancy,
+Flame Weapon Expert,All Flame weapons are treated as reliable,Basic Training (Flame)
+Flame Weapon Training,Proficient with flame weapons,
+Flames of Faith,Fire or Flame/Incendiary weapon deals extra 1d10 damage and -10 to Ag to avoid.,"Pure Faith, Wrath of the Righteous"
+Flesh Render,Add 1 dice to those rolled for Tearing damage (taking best one),Adeptus Astartes
+Foresight,Contemplate to gain +10 on next test,Int 30
+Frenzy,"Enter Rage, +10 WS, S, T,WP, -20 BS, Int.",
+Fuelled By Flesh,Take 1d5 damage to re-roll failed manifestation. -20 to resist disease/poison.,Sorcerer
+Furious assault,WS test to gain second attack,WS 35
+Give it Sum Dakka!,Suppress with an Ork Shoota as a half action,"Ork, Bulging Biceps, Strength 50"
+Good Reputation,Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Academics),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Adeptus Arbites),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Adeptus Astartes),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Adeptus Mechanicus),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Adeptus Sororitas),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Adeptus Titanicus),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Administratum),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Astropaths),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Chartist Captains),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Cult (Specific)),Bonuses with chosen cult,"Fel 50, Peer"
+Good reputation (Death Worlders),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Eccesiarchy),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Enforcers),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Feral worlders),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Government),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Hivers),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Imperial Guard),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Imperial Navy),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Inquisition),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Mercenaries),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Middle Classes),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Military),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Navigators),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Nobility),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (PDF),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Pilgrims),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Planet (Specific)),Bonuses with chosen planet,"Fel 50, Peer"
+Good reputation (Recidivist Organisation (Specific)),Bonuses with chosen organisation,"Fel 50, Peer"
+Good reputation (Rogue Trader),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (the Insane),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Underworld),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Void born),Bonuses with certain groups,"Fel 50, Peer"
+Good reputation (Workers),Bonuses with certain groups,"Fel 50, Peer"
+Grace,Allies may use your fate points. Points are not lost on a roll of 8 or higher.,Pure Faith
+Gravic Levitation,"Maglev Grace, Maglev Transcendence",Mechanicus Implants
+Greed is Good,Reroll failed WP tests to avoid fear or pinning,Mercenary
+Guardian,Switch location with an ally,Ag 40
+Gun Blessing,Un-jam Int bonus guns within 10m,Mechanicus Implants
+Gunfighter Saint,"Ambidextrous, Two weapon (Ballistic), Dual Shot, Independent Targeting, Gunslinger","BS 40, Ag 40"
+Gunslinger,Reduces penalties to BS by 10 for duel wielding ballistic weapons,"BS 40, Two-weapon wielder"
+Hammer Blow,"With melee all-out-attack, add 1/2 Str bonus to Pen. Weapon gains shocking trait",Adeptus Astartes
+Hand of the Emperor,You and allies gain unnatural strength (x2) but decrease Ag Bonus by 2,Pure Faith
+Hard Bargain,+1 to profit factor,
+Hard Target,-20 to hit you when running,Ag 40
+Hardy,Always treated as lightly wounded,T 40
+Hatred (Background),+10 WS vs background specific group,
+Hatred (Chaos worshippers),+10 WS vs Chaos worshippers,
+Hatred (Criminals),+10 WS vs Criminals,
+Hatred (Cult (Specific)),+10 WS vs Cult (chosen),
+Hatred (Daemons),+10 WS vs Daemons,
+Hatred (Heretics),+10 WS vs Heretics,
+Hatred (Imperial Guard),+10 WS vs Imperial Guards,
+Hatred (Imperial Navy),+10 WS vs Imperial Navy,
+Hatred (Mutants),+10 WS vs Mutants,
+Hatred (Pirates),+10 WS vs Pirates,
+Hatred (Psykers),+10 WS vs Psykers,
+Hatred (Rogue Trader),+10 WS vs Specific Rogue Trader,
+Hatred (Tech Heretics),+10 WS vs Tech Heretics,
+Hatred (Witches),+10 WS vs Witches,
+Hatred (Xeno (Specific)),+10 WS vs Xeno (chosen),
+Heavy Training (Bolt),Trained to use Heavy Bolt weapons,
+Heavy Training (Flame),Trained to use Heavy Flame weapons,
+Heavy Training (Las),Trained to use Heavy Las weapons,
+Heavy Training (Launcher),Trained to use Heavy Launcher weapons,
+Heavy Training (Melta),Trained to use Heavy Melta weapons,
+Heavy Training (Plasma),Trained to use Heavy Plasma weapons,
+Heavy Training (Primitive),Trained to use Heavy Primitive weapons,
+Heavy Training (SP),Trained to use Heavy SP weapons,
+Heavy Weapon Expertise,Proficient with all (non exotic) heavy weapons,
+Heavy Weapon Training,Proficiency with chosen weapon group,
+Heightened Reactions,"Quick Draw, Paranoia, Rapid Reaction, Leap Up, Light Sleeper, Lightning Reflexes","Ag 40, Per 40"
+Heightened Sense - Sight,+10 sight based tests,
+Heightened Sense - Smell,+10 smell based tests,
+Heightened Sense - Sound,+10 sound based tests,
+Heightened Sense - Taste,+10 taste based tests,
+Heightened Sense - Touch,+10 touch based tests,
+Heroic Leadership,"Air of Authority, Iron Discipline, Into the Jaws of Hell, Master Orator","Fel 30, WP 30, Command"
+Hidden Cultist,Member of a cult,
+Hip Shooting,Free attack when moving,"BS 40, Ag 40"
+Hit and Run,May disengage as a half action or move away at jump pack speed as full action,
+Holy Hatred,Gain Hatred against those not true servants of the Emperor or +5 WS if already posssed,
+Holy Light,"Shed holy light that damages some creatures and affects ""to hit"" rolls. BM Pg 105","Pure Faith, Holy Radiance"
+Holy Radiance,Allies gain immunity to Daemonic presence and +10 vs fear,Pure Faith
+Hotshot Pilot,All Pilot skills are basic,"Ag 40, Pilot"
+Hulking,"Increase size to Hulking - increase speed, opponents gain +10 WS, you suffer -10 concealment","Str 50, T 50"
+Hunter of Aliens,Gain +10 WS and +2 damage vs. Aliens,
+Hyperactive Nymune Organ,Gain extra reaction each round. Move faster. May be fatigued if used consecutively.,Kroot
+Icon of Duty,Spend a fate point for various effects for duration of encounter,
+Improved Warp Sense,Psyniscience test are free actions,Warp Sense
+Independent targeting,Able to fire at targets more than 10m apart,BS 40
+Indomitable Fortitude,"Die Hard, Hardy, Iron Jaw, Resistance (Cold, Heat, Poison), True Grit","T 40, WP 40"
+Infused Knowledge,Treat Common and Scholastic Lore as basic skills,Int 40
+Insanely Faithful,Roll twice to resist shock and take best result,
+Inspire Wrath,Inspire crowds to anger,Fel 30
+Into the jaws of hell,Minions immune to fear and pinning,Iron Discipline
+Iron Discipline,Minions can re-roll fear and pinning tests,"WP 30, Command"
+Iron Jaw,Test Toughness to overcome stunning,T 40
+I'z Da Biggest,"Use Might makes right with any allies, affect 10x Strength bonus creatures","Ork, Might Makes Right, Intimidate +10"
+Jaded,Never gain insanity from ordinary horrors,WP 30
+Killing Strike,"During All out attack, spend fate to make attack impossible to parry or dodge",Adeptus Astartes
+Kroot Leap,"Jump on charge to avoid obstacles, free knock down action if hits.","Kroot, Str 45, Ag 45"
+Labyrinth Conditioning,Gain +10 to resist intimidation or to deceive. Gain +10 WP to resist interrogation/mind probe.,
+Last Killer Standing,Immune to pinning from pistols/basic weapons. +1 AP from cover,Nerves of Steel
+Last man standing,Immune to pinning from pistols/basic weapons.,Nerves of Steel
+Leap up,Stand up as free action,Ag 30
+Legendary,"Gain Fear (1) in combat, add 2 successes to test with profit factor and social interaction",
+Light of the Emperor,"Gain +20 vs fear, ignore Fear 1 effects, -20 interraction skills","Pure Faith, Holy Radiance"
+Light Sleeper,Count as awake when asleep,Per 30
+Lightning Attack,Attack 3 times with Full attack,Swift attack
+Lightning Reflexes,Add twice AB to initiative rolls,
+Litany of Battle,Allow an ally to spend your fate point to re-roll a failed attack roll,Fel 30
+Litany of Hate,Extend benefits of hatred,Hatred
+Logis Implant,+10 on BS/WS with successful tech-use,
+Lord of Domains,Create a number of holdings (Pg 116),
+Luminen Blast,"1d10+WP Energy damage, causes fatigue",Mechanicus Implants
+Luminen Charge,"T test to charge or power Tech, causes fatigue",Mechanicus Implants
+Luminen Shock,"1d10+3 Energy damage, causes fatigue",Mechanicus Implants
+Machinator Array,"Has advanced Mechanicus augmetics (+10 S,T and -5 Ag,Fel)",Mechanicus Implants
+Machine Spirit Empathy,"Binary Chatter, Elctro Graft Use, Gun Blessing, Technical Knock","Int 30, Fel 30, Mechanicus Implants"
+Maglev Grace,Hover 1d10+TB minutes once per day,Mechanicus Implants
+Maglev Transcendence,Hover 2d10+TB minutes once per day,"Mechanicus Implants, Maglev grace"
+Major Arcana,Gain a major arcana power,"Willpower 45, Sorcerer"
+Maletek Warp Coil,Heal 1d5-2 damage after a killing blow. Roll Psychic Phenomena (-20) when hit on body,Mechanicus Implants
+Marksman,No penalties for firing at long or extreme range,BS 35
+Martyr's Gift,May heal wounds by taking them yourself.,Pure Faith
+Master & Commander,Ship/Crew bonuses as half action,"Int 35, Fel 35"
+Master Chirurgeon,Perform advance medical procedures,Medicae +10
+Master Enginseer,Use fate point for auto-success,"Tech-use +20, Mechanicus Implants"
+Master Orator,Affect 10x as many targets with Fel tests,Fel 30
+Master Sorcerer,"Gain +10 on Daemonic Mastery tests, effective Psy Rating 4, immune to daemonic presence","Intelligence 40, Willpower 50, Sorcerer, Demonology/Warp +20"
+Mechadendrite Use (Manipulator),Mechadendrite Use (Manipulator),Mechanicus Implants
+Mechadendrite Use (Medicae),Mechadendrite Use (Medicae),Mechanicus Implants
+Mechadendrite Use (Optical),Mechadendrite Use (Optical),Mechanicus Implants
+Mechadendrite Use (Servo-Arm),Mechadendrite Use (Servo-Arm),Mechanicus Implants
+Mechadendrite Use (Utility),Mechadendrite Use (Utility),Mechanicus Implants
+Mechadendrite Use (Weapon),Mechadendrite Use (Weapon),Mechanicus Implants
+Meditation,Enter trance to remove fatigue,
+Melee Training (Chain),Trained to use Chain Melee weapons,
+Melee Training (Power),Trained to use Power Melee weapons,
+Melee Training (Primitive),Trained to use Primitive Melee weapons,
+Melee Training (Shock),Trained to use Shock Melee weapons,
+Melee Training (Universal),"Proficient with Chain, Shock and Power weapons",
+Melee Weapon Expertise,Proficient with all (non exotic) melee weapons,
+Member of the Tyrantine Cabal,Gain access to the Bastion Serpentis,
+Mental Aegis,"Mental Fortress, Resistance (Psychic), Strong Minded",WP 50
+Mental Calm,Remove 1d5 Insanity gained the previous round.,"Pure Faith, Grace"
+Mental Fortress,Force attacking Psyker to make WP test or take damage,"WP 50, Strong Minded"
+Mental Rage,May use psychic powers in Frenzied state,Frenzy
+Mercenary,May use profit factor instead of WP to resist fear and pinning.,Kroot
+Mighty Shot,+2 damage with ranged weapons,BS 40
+Mimic,Copy voices,
+Minor Arcana,Gain a minor arcana power,Sorcerer
+Minor Psychic Power,Gain one minor psychic power,Psy Rating
+Miraculous Recovery,Pray overnight to remove a single crippling injury. Both of you gain 1d5 insanity.,"Pure Faith, Divine Ministration"
+Miraculous Survival,"When burning fate to avoid death, emerge unscatched at the start of the next round",
+Mnemonic Purging,Remove memories and insanity point (manual),"Int 45, WP 45"
+More fer Me!,Gain the outnumbering bonuses his opponents would get,"Ork, Weapon Skill 40"
+Navigator,Possesses the navigator gene,
+Navigator Power,Gain a navigator power,Navigator
+Nerves of Steel,Re-roll failed tests to avoid pinning,
+Nightmare Field,Half action to produce identical effect to Terrify Psychic power. Take 1d5 Insanity + 1 Fatigue.,Tech-Priest (Potentia Coil/Cranial Circuitry)
+No Rest for the Faithful,"Ignore critcal effects, reduce fatal critical effects. Gain 1d5 Fatigue at end of combat.","Pure Faith, Respite"
+Oath bonded to the Angels of Death,Influence bonuses with specific Space Marine chapter,
+Only in Death,Once per encounter add 1d10 damage to next hit but take 1d5 damage yourself,"WP 40, 40 Corruption"
+Orthoproxy,+20 to resist interrogation and mind control,
+Outspoken Monodominant,Influence bonuses/penalties with like minded groups. (Pg 117),
+Paranoia,Alert for danger,
+Peer,+10 Fel with chosen group,Fel 30
+Peer (Academics),+10 Fel with chosen group,Fel 30
+Peer (Adeptus Arbites),+10 Fel with chosen group,Fel 30
+Peer (Adeptus Astartes),+10 Fel with chosen group,Fel 30
+Peer (Adeptus Mechanicus),+10 Fel with chosen group,Fel 30
+Peer (Adeptus Sororitas),+10 Fel with chosen group,Fel 30
+Peer (Adeptus Titanicus),+10 Fel with chosen group,Fel 30
+Peer (Administratum),+10 Fel with chosen group,Fel 30
+Peer (Astropaths),+10 Fel with chosen group,Fel 30
+Peer (Chartist Captains),+10 Fel with chosen group,Fel 30
+Peer (Cult (Specific)),+10 Fel with chosen cult,Fel 30
+Peer (Death Worlders),+10 Fel with chosen group,Fel 30
+Peer (Deathwatch),+10 Fel with chosen group,Fel 30
+Peer (Ecclesiarchy),+10 Fel with chosen group,Fel 30
+Peer (Enforcers),+10 Fel with chosen group,Fel 30
+Peer (Feral worlders),+10 Fel with chosen group,Fel 30
+Peer (Government),+10 Fel with chosen group,Fel 30
+Peer (Hivers),+10 Fel with chosen group,Fel 30
+Peer (Imperial Guard),+10 Fel with chosen group,Fel 30
+Peer (Imperial Navy),+10 Fel with chosen group,Fel 30
+Peer (Inquisition),+10 Fel with chosen group,Fel 30
+Peer (Mercantile),+10 Fel with chosen group,Fel 30
+Peer (Mercenaries),+10 Fel with chosen group,Fel 30
+Peer (Middle Classes),+10 Fel with chosen group,Fel 30
+Peer (Military),+10 Fel with chosen group,Fel 30
+Peer (Mutants),+10 Fel with chosen group,Fel 30
+Peer (Navigators),+10 Fel with chosen group,Fel 30
+Peer (Nobility),+10 Fel with chosen group,Fel 30
+Peer (Officio Assassinorum),+10 Fel with chosen group,Fel 30
+Peer (Ordo Malleus),+10 Fel with chosen group,Fel 30
+Peer (Ordo Xenos),+10 Fel with chosen group,Fel 30
+Peer (PDF),+10 Fel with chosen group,Fel 30
+Peer (Pilgrims),+10 Fel with chosen group,Fel 30
+Peer (Planet (Specific)),+10 Fel with chosen planet,Fel 30
+Peer (Recidivist Organisation (Specific)),+10 Fel with chosen group,Fel 30
+Peer (Rogue Trader),+10 Fel with chosen group,Fel 30
+Peer (the Insane),+10 Fel with chosen group,Fel 30
+Peer (Underworld),+10 Fel with chosen group,Fel 30
+Peer (Void born),+10 Fel with chosen group,Fel 30
+Peer (Workers),+10 Fel with chosen group,Fel 30
+Peerless Marksman,"Crack Shot, Deadeye shot, Marksman, Mighty Shot, Sharpshooter",BS 40
+Perfect Shot,After kill may aim (+10) as free action,BS 60
+Physical Perfection,"Increase level of machine trait, can heal with -20 Tech-Use test",Augmenticist
+Pious Observation,Re-roll failed influence tests with the Ecclesiarchy,
+Pistol Training (Bolt),Trained to use  Bolt pistol weapons,
+Pistol Training (Flame),Trained to use  Flame pistol weapons,
+Pistol Training (Las),Trained to use  Las pistol weapons,
+Pistol Training (Launcher),Trained to use  Launcher pistol weapons,
+Pistol Training (Melta),Trained to use  Melta pistol weapons,
+Pistol Training (Plasma),Trained to use  Plasma pistol weapons,
+Pistol Training (Primitive),Trained to use  Primitive pistol weapons,
+Pistol Training (SP),Trained to use  SP pistol weapons,
+Pistol Training (Universal),"Proficient with Bolt, Las, Launcher,Melta,Plasma,SP",
+Pistol Weapon Expertise,Proficient with all (non exotic) pistol weapons,
+Polyglot,Innate ability with languages,"Int 30, Fel 30"
+Power Blades,Hidden Weapon Implant,Mechanicus Implants
+Power of Faith,Once per session activate faith talent if you have no fate points left,Pure Faith
+Power Well,Gain +1 to Manifesting rolls,Psy Rating 2
+Precise Blow,No penalty for called shots,"WS 40, Sure strike"
+Preternatural Speed,Swift and Lightning attacks are half actions and usable during a charge,"WS 40, Ag 50"
+Prophetic Dreams,Gain free re-roll once per day (24 hours),Shamanic powers
+Prosanguine,Heal 1d5 damage once per day,
+Psy Rating + 1,Increaase power level of psychic techniques,Psy Rating
+Psy Rating 1,Power level of psychic techniques,
+Psy Rating 2,Power level of psychic techniques,
+Psy Rating 3,Power level of psychic techniques,Psy Rating 2
+Psy Rating 4,Power level of psychic techniques,Psy Rating 3
+Psy Rating 5,Power level of psychic techniques,Psy Rating 4
+Psy Rating 6,Power level of psychic techniques,Psy Rating 5
+Psy Rating 7,Power level of psychic techniques,Psy Rating 6
+Psy Rating 8,Power level of psychic techniques,Psy Rating 7
+Psychic Discipline,Gain access to a psychic discipline,
+Psychic Power,Gain one psychic power from a known discipline,Psy Rating 2
+Psychic Spite,Psychic powers that deal damage gain the tearing ability,"Psy Rating 4, Corpus Conversion"
+Psychic Technique,Gain a psychic technique,
+Psychic Vampire,Heal yourself when killing others but gain corruption. This is addictive.,"Psy Rating 4, Corruption 30"
+Pure Faith,Immune to daemonic presence,
+Purge the unclean,Spend fate to repel daemons,Pure Faith
+Purity of the Machine,"Autosanguine, Chem Geld, Orthoproxy, Prosanguine, Rite of pure thought",Mechanicus Implants
+Quick Draw,Ready as free action,
+Rapid reaction,Test Ag to negate surprise,Ag 40
+Rapid reload,Reduce reload time,
+Religeous Hysteria,Preach for 10 mins to create a mob with specific hatred. Opposed WP to affect each target.,"Pure Faith, Righteous Frenzy"
+Renowned warrant,Bonuses to Fel tests,
+Renowned Warrior,"Re-roll failed overt influence tests with the Imperial Guard, Navy or PDF.",
+Repel Daemon,Warp spawn must win opposed WP test to approach and again to touch the faithful,"Pure Faith, Holy Radiance, Soul Decay"
+Resistance (Cold),+10 bonus to associated test,
+Resistance (Fear),+10 bonus to associated test,
+Resistance (Heat),+10 bonus to associated test,
+Resistance (Interrogation),+10 bonus to associated test,
+Resistance (Poisons),+10 bonus to associated test,
+Resistance (Psychic),+10 bonus to associated test,
+Respite,Pray for ally to ignore effects of fatigue or critcal damage,"Pure Faith, Divine Endurance"
+Resurrection,After burning fate to avoid death restore victim to full health,"Pure Faith, Divine Ministration, No Rest for the Faithful"
+Revelation,"Overcome effects of fear, WP check to dispel psychic effects.","Pure Faith, Mental Calm"
+Revolutionary,Re-roll influence test with like minded groups (Pg 118),
+Righteous Frenzy,You and allies gain benefits of Frenzy Talent but won't attack each other.,"Pure Faith, Wrath of the Righteous, The Passion"
+Rite of Awe,"50m radius, -10 to all fear tests",Mechanicus Implants
+Rite of Fear,"Fear (1) for 2 mins, 50m radius",Mechanicus Implants
+Rite of Protection,WP (+10) test to protect against upcoming memories,WP 40
+Rite of pure thought,Immune to emotion,Mechanicus Implants
+Rite of sanctioning,Reduces psychic phenomenon,"Psy rating, special"
+Rival (Academics),-10 Fel versus group,
+Rival (Adepta Sororitas),-10 Fel versus group,
+Rival (Adeptus Arbites),-10 Fel versus group,
+Rival (Adeptus Astartes),-10 Fel versus group,
+Rival (Adeptus Mechanicus),-10 Fel versus group,
+Rival (Administratum),-10 Fel versus group,
+Rival (Astropaths),-10 Fel versus group,
+Rival (Chartist Captains),-10 Fel versus group,
+Rival (Cult (Specific)),-10 Fel versus chosen cult,
+Rival (Death Cults),-10 Fel versus group,
+Rival (Ecclesiarchy),-10 Fel versus group,
+Rival (Enforcers),-10 Fel versus group,
+Rival (Government),-10 Fel versus group,
+Rival (Imperial Guard),-10 Fel versus group,
+Rival (Imperial Navy),-10 Fel versus group,
+Rival (Inquisition faction (Specific)),-10 Fel versus chosen faction,
+Rival (Inquisition),-10 Fel versus group,
+Rival (Inquisitor (Specific)),-10 Fel versus chosen inquisitor,
+Rival (Middle Classes),-10 Fel versus group,
+Rival (Military),-10 Fel versus group,
+Rival (Navigators),-10 Fel versus group,
+Rival (Nobilite (Specific)),-10 Fel versus chosen noble,
+Rival (Nobility),-10 Fel versus group,
+Rival (Officio Assassinorum),-10 Fel versus group,
+Rival (Planet (Specific)),-10 Fel versus chosen planet,
+Rival (Recidivist Organisation (Specific)),-10 Fel versus chosen organisation,
+Rival (Rogue Trader),-10 Fel versus group,
+Rival (Underworld),-10 Fel versus group,
+Rival (Workers),-10 Fel versus group,
+Runtz,Gain a greenskin slave/pet,Ork
+Scourge of Heretics,Gain +10 WS and +2 damage vs. Heretics,
+Seal of Purity,Stop Deamons and their psychic powers from passing within 10m of seal.,"Pure Faith, Divine Symbol"
+Servo-harness Integration,Use pincer arms and weapon arrays as if they were extra limbs,Techmarine Implants
+Shadow Lord,Subtle influence tests are at -10 (not -30),
+Sharpshooter,No penalies for called shots,"BS 40, Deadeye shot"
+Siegecraft,Prepare battle field (1d5 hours) and inprove AP of 1 peice of cover by INT bonus.,
+Signature Wargear (specific),Gain item with requisition cost of 20 or less,
+Signature Wargear Hero (specific),Gain item with requisition cost of 70 or less,
+Signature Wargear Master (specific),Gain item with requisition cost of 40 or less,Signature Wargear (specific)
+Slayer of Daemons,Gain +10 WS and +2 damage vs. Daemons,
+Sleeper Agent,"Set up agent for 5 influence, use agent to pass influence test.",
+Sorcerer,Gain 3xWP bonus arcana slots and an effective Psy Rating of 2,"Int 35, Willpower 35, Demonology/Warp +10"
+Soul Decay,"Adversely affect creature with corruption points, daemons and psykers","Pure Faith, Burden of Guilt"
+Soul of Stone,"Armour of Contempt, Fearless, Insanely Faithful, Jaded, Resistance (Fear), Unshakable Faith",WP 40
+Soul Storm,Deal damage to Psykers/Corrupt and Daemons. Fall unconscious afterwards,"Pure Faith, Divine Touch, Flames of Faith"
+Sound Constitution,Gain +1 wound,
+Spirit of the Martyr,Add WP to Toughness to reduce impact or rending damage. Reduce critical damage by 1,"Pure Faith, Blessed Ignorance"
+Spiritual Cleansing,Remover 1d5 Corruption gained the previous round if the target has less than 20 Corruption,"Pure Faith, Divine Endurance"
+Spiritual Mirror,"When taking shock from fear effects, source creature must test WP or be affected","Pure Faith, Light of the Emperor"
+Sprint,Move more quickly in combat,
+Stalwart Defence,Full round action to spend fate point. May parry all attacks while stationary. Not outnumbered,Adeptus Astartes
+Step aside,Extra Dodge each round,"Ag 40, Dodge"
+Storm of Blows,"Ambidextrous, Two weapon (Melee), Dual Strike, Lightning Attack, Swift Attack","WS 35, Ag 40"
+Storm of Iron,Double damage to Hordes when wielding Flamers or firing semi/full auto,Adeptus Astartes
+Street fighting,Inflict +2 extra critical damage with a knife or unarmed attack,
+Strong Minded,Re-roll failed WP tests to resist Psychic Techniques,"WP 30, Resistance (Pyschic)"
+Sublime Arts,"Use sorcerer powers mentally, adds 2 to threshold.","Perception 40, Intelligence 45, Sorcerer"
+Sure strike,Choose reverse of roll for location,WS 30
+Survival Master,"Re-roll failed Survival, Tracking and Wrangling skill checks",Toughness 40
+Survivor,Remove negative modifiers on chosen characteristic,
+Swift Attack,Attack twice with full attack,WS 35
+Takedown,Special attack to stun,
+Talented,+10 to chosen skill check,
+Target Selection,Shoot in Melee without penalty,BS 50
+Technical Knock,Un-jam a gun as half action,Int 30
+Tests of Faith,Activate Emperor's Wrath fate talent without spending fate point once per session,WP 30
+The Ear of the Lord Sector,Influence at -20 to gain influence of 130 for 1 test.,
+The Emperor Protects,Spend fate to inspire fearlessness and heroism,Pure Faith
+The Flesh is Weak 1,Gain Machine trait and 1 armour point,Mechanicus Implants
+The Flesh is Weak 2,Gain Machine trait and 2 armour points,The Flesh is Weak 1
+The Flesh is Weak 3,Gain Machine trait and 3 armour points,The Flesh is Weak 2
+The Flesh is Weak 4,Gain Machine trait and 4 armour points,The Flesh is Weak 3
+The Flesh is Weak 5,Gain Machine trait and 5 armour points,The Flesh is Weak 4
+The Passion,"You and allies gain unnatural Agility (x2), +10 dodge/parry and choose best of 2d10 for initiative.","Pure Faith, Divine Guidance"
+The Reaping,As a full action attack everyone in range with Melee weapon until parried or dodged,"WS 40, Combat Master"
+The Unforgiving Blade,"Blade bcomes Holy, does extra 1d10 damage and increases Pen by 2 vs warp/corrupt","Pure Faith, Wrath of the Righteous"
+Thrown Training (Chain),Trained to use Chain Thrown weapons,
+Thrown Training (Power),Trained to use Power Thrown weapons,
+Thrown Training (Primitive),Trained to use Primitive Thrown weapons,
+Thrown Training (Shock),Trained to use Shock Thrown weapons,
+Thrown Weapon Expertise,Proficient with all (non exotic) thrown weapons,
+Thrown Weapon Training (Universal),"Primitive, Chain, Shock, Power",
+Thunder Charge,Gain extra unarmed attack on a charge (1d5+1 attacks vs. a Horde),Adeptus Astartes
+Too 'Ard Ta Care,Gain +20 to toughness tests due to environment,"Ork, 'Ard, Toughness 50"
+Total Recall,Remember trivial facts and details,Int 30
+Transcendent Hate,"Hatred (all), Inspire Wrath, Litany of Hate",Fel 30
+True Grit,Reduce critical damage,T 40
+Two-Weapon Wielder (Ballistic),Attack twice with 2 weapons,"BS 35, Ag 35"
+Two-Weapon Wielder (Melee),Attack twice with 2 weapons,"WS 35, Ag 35"
+Unarmed Ascendant Mastery,"Disarm, Unarmed Master, Unarmed Warrior, Takedown, Street Fighting","WS 45, Ag 45"
+Unarmed Master,Attack for 1d10+SB (not primitive),"WS 45, Ag 40, Unarmed Warrior"
+Unarmed Warrior,Attack for 1d10-3+SB,"WS 35, Ag 35"
+Unassailable Grace,"Deflect Shot, Hard Target, Step Aside","Ag 50, Dodge"
+Unbowed and Unbroken,Succeed in Attack or Fel check to restore Cohesion lost in last round,"Adeptus Astartes, Fel 40"
+Unnatural Agility x 2,Double Agility bonus and add 1 success when passing Ag skill tests,
+Unnatural Agility x 3,Treble Agility bonus and add 2 successes when passing Ag skill tests,Unnatural Agility x 2
+Unnatural Agility x 4,Quadruple Agility bonus and add 3 successes when passing Ag skill tests,Unnatural Agility x 3
+Unnatural Intelligence x 2,Double Intelligence bonus and add 1 success when passing Int skill tests,
+Unnatural Intelligence x 3,Treble Intelligence bonus and add 2 successes when passing Int skill tests,Unnatural Intelligence x 2
+Unnatural Intelligence x 4,Quadruple Intelligence bonus and add 3 successes when passing Int skill tests,Unnatural Intelligence x 3
+Unnatural Perception x 2,Double Perception bonus and add 1 success when passing Per skill tests,Per 45
+Unnatural Perception x 3,Treble Perception bonus and add 2 success when passing Per skill tests,Per 45
+Unnatural Speed x 2,Double Speed bonus - increasing move rates,
+Unnatural Strength x 2,Double Strength bonus and add 1 success when passing Str skill tests,
+Unnatural Toughness x 2,Double Toughness bonus and add 1 success when passing T skill tests,
+Unnatural Willpower x 2,Double Willpower bonus and add 1 success when passing WP skill tests,
+Unnatural Willpower x 3,Treble Willpower bonus and add 2 successes when passing WP skill tests,Unnatural Willpower x 2
+Unremarkable,Easily forgettable,
+Unshakable faith,Re-roll failed fear checks,
+Visions of the Abyss,Reduce warp shock corruption results by 1,Personal Augury Power
+Voice of the Masses,Re-roll failed influence tests  with non-Adeptus Terra organisations,
+Voice of the Omnissiah,"Disturbing Voice, Feedback Screech, Mimic, Rite of Awe, Rite of Fear",Mechanicus Implants
+Void tactician,Bonus to starship conbat,Int 35
+WAAAGH!,Spend a reaction after a successful hit on a charge to make an additional attack,"Ork, Berserk Charge, Furious Assault, Weapon Skill 40"
+Wall of Steel,Gain extra parry each round,Ag 35
+Warmonger,Re-roll tests to acquire weapons/military forces. -20 to all other influence tests.,
+Warp Affinity,Re-roll psychic phenomena,"Psy rating, special"
+Warp Conduit,+1 to psy rating when pushing,"Psy rating, strong minded, WP 50"
+Warp Sense,Allows Psyniscience test as half action,"Navigator or Psy rating, Psyniscience, Per 30"
+Warped Psyker,Immune to Daemonic Presence. Other effects if also a Sorcerer,"Psy rating 2, Special"
+Watched from on High,Gain +1 influence when influence is gained,
+Watchful for betrayal,You cannot be surprised,"Awareness, Light sleeper, Paranoia, Perception 40"
+Weapon-Tech,Once per combat increase Damage and Pen of certain wielded weapons by Int bonus,Techmarine
+Web of Peers,Reputation may proceed you gaining +10 Fel with some NPCs,"Fel 45, Peer (Any)"
+Whirlwind of Death,Double damage to Horde's magnitude,Adeptus Astartes
+Whispers,Bonuses to investigations,"Int 40, Fel 30"
+Wide Correspondence,Use subtle influence to gather information,
+Wisdom of the Ancients,Spend Fate point to get GM hint,"Adeptus Astartes, Int 40"
+Worky Gubbinz,"Ork weapons are reliable, kustomize to add +5 bonus","Ork, Tech-Use +10, Willpower 30"
+Worthy of the Calixian Elite,Re-roll failed influence tests with Nobility. Gain enemies.,
+Wrath of the Righteous,You and allies increase melee damage by 1d5 and invoke righteous fury on a 9 and 10,Pure Faith
